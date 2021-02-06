@@ -1,0 +1,4 @@
+
+
+# Informacioon
+Este directorio tiene el archivo .txt que la aplicacion realiza
